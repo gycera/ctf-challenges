@@ -1,7 +1,16 @@
-# Simple SQL Injection Challenge
+# 🏴 CTF Challenges
 
-Difficulty: Beginner
+This repository contains Capture The Flag (CTF) challenges for learning cybersecurity.
 
-Goal: Exploit the SQL injection vulnerability to retrieve the flag.
+## Categories
+- Web
+- Cryptography
+- Reverse Engineering
+- Forensics
 
-⚠️ This challenge is for **educational purposes only** and must be run locally.
+## How to use
+- Run challenges **locally only**
+- Do NOT attack real websites
+- This repo is for **ethical hacking & education**
+
+Happy hacking 🚀
